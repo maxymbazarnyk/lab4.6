@@ -1,0 +1,2 @@
+D:\IT\labs\laba4.6\Debug\laba4.6.exe
+D:\IT\labs\laba4.6\Debug\laba4.6.pdb
